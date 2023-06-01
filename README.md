@@ -18,6 +18,8 @@ You can install these dependencies using pip:
 
 ## Detection Model Zoo (Pre-Trained Deep Learning Model)
  The TensorFlow Model Garden is a repository : [https://github.com/tensorflow/models](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md)
+ 
+Pre-Trained Model used for this project: [EfficientDet D7 1536x1536](http://download.tensorflow.org/models/object_detection/tf2/20200711/efficientdet_d7_coco17_tpu-32.tar.gz)  
 
 ## Getting Started
 To use this project, follow the steps below:

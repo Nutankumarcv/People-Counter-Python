@@ -45,7 +45,35 @@ To use this project, follow the steps below:
 6. The system will display the video stream with bounding boxes around detected people. 
    The count of people entering and exiting the frame, as well as the frames per second (FPS), will be shown on the screen.
 
+![image](https://github.com/Nutankumarcv/People-Counter-Python/assets/101986675/1f0f9fec-6c9a-42f5-8244-04077bfc17d1)
 
+![image](https://github.com/Nutankumarcv/People-Counter-Python/assets/101986675/09894126-7aad-4d64-a29c-8df237b15e49)
+
+![image](https://github.com/Nutankumarcv/People-Counter-Python/assets/101986675/446807a6-6d8d-4a75-baed-da3fe091cc18)
+
+
+## Customization
+You can customize the project based on your specific requirements. Here are a few possible modifications:
+
+- Model: You can replace the pre-trained model with your own trained model. Ensure that the model is compatible with   
+         TensorFlow's SavedModel format.
+         
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
+## Additional Resources
+
+- [argparse](https://docs.python.org/3/library/argparse.html)
+- [Centroid Tracking](https://www.pyimagesearch.com/2018/07/23/simple-object-tracking-with-opencv/)
+- [collections](https://docs.python.org/3/library/collections.html)
+- [MobileNets: Efficient](https://arxiv.org/abs/1704.04861)
+- [OpenCV Tracker](https://docs.opencv.org/3.4/d2/d0a/tutorial_introduction_to_tracker.html)
+- [Python Client](https://www.eclipse.org/paho/index.php?page=clients/python/docs/index.php)
+- [SciPy API](https://docs.scipy.org/doc/scipy/reference/)
+- [tensorflow models](https://github.com/tensorflow/models)
      
-     
+Please note that this README provides a basic overview of the installation and configuration process. Refer to the official documentation for any specific requirements or troubleshooting information related to your setup.
+
+**Disclaimer:** Make sure to consult the official Intel documentation for the most up-to-date and accurate instructions.
    
